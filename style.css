@@ -19,8 +19,8 @@ h2 {
     background-color: green;
     color: white;
 }
-section {
-    margin: 5px;
+body{
+    margin: 10px;
 }
 h2:nth-of-type(2) {
     padding: 40px;
